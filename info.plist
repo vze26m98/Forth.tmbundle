@@ -2,10 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>contactEmailRot13</key>
+	<string>imr26z98@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Charles Turner</string>
 	<key>deleted</key>
 	<array>
 		<string>EF0F5F2C-8E25-47FC-94F4-E992BE389877</string>
 	</array>
+	<key>description</key>
+	<string></string>
 	<key>name</key>
 	<string>Forth</string>
 	<key>uuid</key>
